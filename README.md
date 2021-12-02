@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Val-Santos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Val
 
+Using this Github Repo to keep track of my art progress and practice consistency
+
+Currently focusing on:
+- Line Art
+- Digital painting
+- Figure Drawing
+- Geometry
